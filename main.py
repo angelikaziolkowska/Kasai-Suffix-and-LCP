@@ -1,7 +1,3 @@
-# Python3 program for building suffix
-# array of a given text
-
-# Class to store information of a suffix
 import numpy as np
 
 
